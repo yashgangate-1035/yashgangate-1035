@@ -23,24 +23,6 @@ A full-stack web application designed to connect users who want to **learn and s
 
 **Tech:** React, JavaScript, Node.js, Express.js, MongoDB, Git, GitHub
 
-### LawLink — Legal Information & Research Platform
-
-A project developed around simplifying access to **Indian laws, legal provisions, judgments, and supporting authorities**. The platform focuses on making legal research more organized, accessible, and easier to navigate.
-
-**Tech:** React, JavaScript, Node.js, APIs, Database
-
-### Hospital Management System
-
-A management application designed to organize hospital-related information such as **patients, doctors, appointments, and records** through a structured digital system.
-
-**Tech:** Web Development, JavaScript, Database
-
-### Student Management System
-
-A web-based application for managing student information and academic records, with an emphasis on simple navigation and efficient data management.
-
-**Tech:** HTML, CSS, JavaScript, Database
-
 ### Jewellery Shop Management System
 
 A management application designed to help organize jewellery shop operations, customer information, products, and sales-related data.
