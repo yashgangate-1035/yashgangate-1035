@@ -79,7 +79,7 @@ Expected Graduation: **2027**
 
 * LinkedIn: [linkedin.com/in/yash-gangate1035](https://www.linkedin.com/in/yash-gangate1035/)
 * GitHub: [github.com/yashgangate-1035](https://github.com/yashgangate-1035)
-* Portfolio: Add your portfolio link here
+* Portfolio: portfolio-cloud-cdc9.vercel.app
 * Email: yashgangate@gmail.com
 
 ## A Little More About Me
